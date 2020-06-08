@@ -11,3 +11,5 @@ while len(str(num)) != 9:
     else:
         num = num + 1
 print(count)
+
+# prints all the numbers and the total amount of numbers from 0 to num which are divisible by 18 and do not contain a 0, 4, 5, 6, 7, 8, or 9 in them
